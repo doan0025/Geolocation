@@ -1,0 +1,12 @@
+body{
+    color: white;
+}
+
+h1{
+	color: green;
+	text-align: center;
+}
+
+#canvas-map{
+	margin-left: 550px;
+}
